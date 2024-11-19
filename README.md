@@ -9,5 +9,3 @@ Monitor multiple websites for uptime.
 Send alerts when a website goes down.
 
 Regular checks at customizable intervals.
-
-

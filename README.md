@@ -19,7 +19,9 @@ This project is an uptime monitoring application that checks the status of websi
   - `axios`: For making HTTP requests to check website statuses.
   - `node-cron`: For scheduling website checks.
   - `nodemailer`: For sending email alerts.
- 
-**## Future Improvements
+
+---
+
+## **Future Improvements**
 - Add webhook functionality to send real-time alerts to external systems like Slack, Discord, or custom APIs.
-*
+
